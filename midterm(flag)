@@ -164,3 +164,4 @@ for i = 0, 5 do
         star(18+50*i, 15+20*j, 10, 0, true, " #fff")
     end
 end  
+
